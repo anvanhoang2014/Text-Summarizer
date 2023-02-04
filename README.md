@@ -1,2 +1,7 @@
-# Text-Summarizer
-Using Python with machine learning and natural language processing (NLP) to create an Text Summarization application
+# Generate summaries from texts using Streamlit
+### Group 5 - Software Design and implementation - 6112/8112
+## Instruction
+* Create a virtual python 3.8 environment
+* install [tensorflow](https://www.tensorflow.org/install/pip) or [PyTorch](https://pytorch.org/get-started/locally/)
+* run `pip install -r requirements.txt`
+* run `streamlit run main.py`
